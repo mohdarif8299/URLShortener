@@ -2,7 +2,7 @@
 
 System Design URL Shortner using Spring Boot (Backend)
 
-Functional
+Functions
  1. Generates Short URL from a given url.
  2. Uses Redis server for managing Urls on local storage.
  3. It uses Google hashing murmur3 for generating key
